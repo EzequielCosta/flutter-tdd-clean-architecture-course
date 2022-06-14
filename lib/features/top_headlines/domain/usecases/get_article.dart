@@ -3,15 +3,16 @@ import 'package:equatable/equatable.dart';
 import 'package:news/core/error/failures.dart';
 import 'package:news/core/usecases/usecase.dart';
 import 'package:news/features/top_headlines/domain/entities/article.dart';
+import 'package:news/features/top_headlines/domain/entities/articles.dart';
 import 'package:news/features/top_headlines/domain/repositories/article_repository.dart';
 
-class GetArticle extends UseCase<Article, Params> {
+class GetArticle extends UseCase<Articles, Params> {
   final ArticleRepository articleRepository;
 
   GetArticle({required this.articleRepository});
 
   @override
-  Future<Either<Failure, Article>> call(Params params) async {
+  Future<Either<Failure, Articles>> call(Params params) async {
     return await articleRepository.getArticle(
         category: params.category, country: params.country);
   }

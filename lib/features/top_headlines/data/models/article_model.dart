@@ -1,3 +1,4 @@
+import 'package:news/features/top_headlines/data/models/source_model.dart';
 import 'package:news/features/top_headlines/domain/entities/article.dart';
 import 'package:news/features/top_headlines/domain/entities/source.dart';
 
@@ -7,11 +8,11 @@ class ArticleModel extends Article {
   @override
   final String title;
   @override
-  final String description;
+  final String? description;
   @override
   final String url;
   @override
-  final String urlToImage;
+  final String? urlToImage;
   @override
   final DateTime publishedAt;
   @override
@@ -46,9 +47,9 @@ class ArticleModel extends Article {
       description: json["description"],
       url: json["url"],
       urlToImage: json["urlToImage"],
-      publishedAt: json["publishedAt"],
+      publishedAt: DateTime.parse(json["publishedAt"]),
       content: json["content"],
-      source: json["source"],
+      source: SourceModel.toJson(json["source"]),
     );
   }
 }
