@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Dow Jones Futures: Why Stocks Rallied On Big Fed Rate Hike; What To Do Now - Investor's Business Daily",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMihgFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtc3RvY2stbWFya2V0LXJhbGxpZXMtb24tYmlnLWZlZC1yYXRlLWhpa2UtZmxleGlibGUtcG93ZWxsL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-06-16T00:23:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Krystal Hur",
+        "title": "Jim Cramer warns even high quality low price-to-earnings stocks could get beaten down by a recession - CNBC",
+        "description": "\"There are the higher-quality ones that you can justify owning if you feel a little more sanguine about the economy,\" the \"Mad Money\" host said.",
+        "url": "https://www.cnbc.com/2022/06/15/jim-cramer-warns-even-high-quality-low-price-to-earnings-stocks-could-get-beaten-down-by-a-recession.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107060539-1652391835772-220305_IMG_0726.jpg?v=1652391986&w=1920&h=1080",
+        "publishedAt": "2022-06-15T22:52:45Z",
+        "content": "CNBC's Jim Cramer warned investors on Wednesday that while there are some stocks with low price-to-earnings multiples that look cheap and therefore investable, it's worth noting that they aren't alwa… [+1584 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Fed has a way to go because inflation has 'metastasized,' warns fmr. Dallas Fed Pres. Richard Fisher - CNBC Television",
+        "description": "Richard Fisher, Former Dallas Fed president, breaks down the Fed's latest rate move. With CNBC's Melissa Lee and the Fast Money traders, Steve Grasso, Guy Ad...",
+        "url": "https://www.youtube.com/watch?v=HCiT29PdkoI",
+        "urlToImage": "https://i.ytimg.com/vi/HCiT29PdkoI/hqdefault.jpg",
+        "publishedAt": "2022-06-15T22:17:54Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Nicole Goodkind, CNN Business",
+        "title": "Here's why crypto experts are shrugging off the bitcoin crash - CNN",
+        "description": "Cryptocurrency is having a terrible week. And it's only Wednesday.",
+        "url": "https://www.cnn.com/2022/06/15/investing/bitcoin-crash-crypto/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210430164022-01-cryptocurrency-bitcoin-super-tease.jpg",
+        "publishedAt": "2022-06-15T22:12:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Nick Timiraos, Akane Otani, Joe Wallace, Sam Goldfarb, Hardika Singh, Matt Grossman, David Harrison, Michael S. Derby",
+        "title": "Fed Meeting Live Updates: Interest Rates Raised 0.75 Percentage Point - The Wall Street Journal",
+        "description": "Full coverage of the Federal Reserve's June meeting and the market reaction.",
+        "url": "https://www.wsj.com/livecoverage/federal-reserve-meeting-interest-rates-june-2022",
+        "urlToImage": "https://images.wsj.net/im-564212/social",
+        "publishedAt": "2022-06-15T22:08:00Z",
+        "content": "U.S. stocks soared Wednesday after the Federal Reserve approved its biggest interest-rate increase since 1994 but suggested moves of that scale would likely not become common.\r\nIn 4 p.m. trading, the… [+1694 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Neal E. Boudette, Cade Metz, Jack Ewing",
+        "title": "Self-Driving and Driver-Assist Technology Linked to Hundreds of Car Crashes - The New York Times",
+        "description": "The National Highway Traffic Safety Administration released data on 10 months of crashes involving cars with automated components. A few were fatal.",
+        "url": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
+        "urlToImage": "https://static01.nyt.com/images/2022/06/15/business/15auto-safety/15auto-safety-facebookJumbo.jpg",
+        "publishedAt": "2022-06-15T22:01:44Z",
+        "content": "In November, Tesla recalled nearly 12,000 vehicles that were part of the beta test of Full Self Driving a version of Autopilot designed for use on city streets after deploying a software update that … [+1487 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "This was a great thing Jerome Powell did: Economist - Fox Business",
+        "description": "Milken Institute chief economist Bill Lee and Carolinas Investment Consulting director of economics John Silvia assess Jerome Powell's inflation strategy on ...",
+        "url": "https://www.youtube.com/watch?v=3FAUbzILR4U",
+        "urlToImage": "https://i.ytimg.com/vi/3FAUbzILR4U/hqdefault.jpg",
+        "publishedAt": "2022-06-15T21:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jordan Valinsky, CNN Business",
+        "title": "Bill Gates says crypto and NFTs are a sham - CNN",
+        "description": "Don't count Bill Gates among the fans of cryptocurrencies and NFTs.",
+        "url": "https://www.cnn.com/2022/06/15/tech/bill-gates-crypto-nfts-comments/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220615083004-bill-gates-0503-super-tease.jpg",
+        "publishedAt": "2022-06-15T21:44:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Rick Newman",
+        "title": "Biden and the oil industry are talking past each other - Yahoo Finance",
+        "description": "Biden is starting the ask the US petroleum industry how to boost production and lower prices. But the negotiation doesn't seem serious, yet.",
+        "url": "https://finance.yahoo.com/news/biden-and-the-oil-industry-are-talking-past-each-other-213916164.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aRYYv.1yynQmYpJagt4Z9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTM-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4f1bd430-e91d-11ec-afb3-288cc44455ff",
+        "publishedAt": "2022-06-15T21:39:16Z",
+        "content": "Remember the outrage when a handful of U.S. oil refineries closed in 2020?\r\nIf you dont, thats because there wasnt any outrage. Oil and gasoline prices were blissfully low and the COVID-19 pandemic d… [+7570 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Mark DeCambre",
+        "title": "'The economy is going to collapse,' says Wall Street veteran Novogratz. 'We are going to go into a really fast recession.' - MarketWatch",
+        "description": "Veteran investor and bitcoin bull Michael Novogratz’s economic outlook is not rosy",
+        "url": "https://www.marketwatch.com/story/the-economy-is-going-to-collapse-says-wall-street-veteran-novogratz-we-are-going-to-go-into-a-really-fast-recession-11655328960",
+        "urlToImage": "https://images.mktw.net/im-325175/social",
+        "publishedAt": "2022-06-15T21:35:00Z",
+        "content": "Veteran investor and bitcoin bull Michael Novogratz doesnt have a rosy outlook on the economy, which he described as headed for a substantial downturn, with the likelihood of a fast recession on the … [+2361 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Bear market isn't going to end with this 75 bps rate hike, says Ritholtz's Josh Brown - CNBC Television",
+        "description": "Josh Brown, Ritholtz Wealth Management CEO, joins 'Closing Bell: Overtime' to give his reaction to the Fed decision and its market impact.",
+        "url": "https://www.youtube.com/watch?v=z64aS4SDpaU",
+        "urlToImage": "https://i.ytimg.com/vi/z64aS4SDpaU/maxresdefault.jpg",
+        "publishedAt": "2022-06-15T21:26:19Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "The economy isn't as strong as people say, warns DoubleLine CEO Jeffrey Gundlach - CNBC Television",
+        "description": "Jeffrey Gundlach, DoubleLine CEO and chief investment officer, joins 'Closing Bell: Overtime' to discuss the economy and whether he thinks the Fed can naviga...",
+        "url": "https://www.youtube.com/watch?v=n6fQ17jCFzQ",
+        "urlToImage": "https://i.ytimg.com/vi/n6fQ17jCFzQ/hqdefault.jpg",
+        "publishedAt": "2022-06-15T21:18:48Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SFGate"
+        },
+        "author": "Tessa McLean",
+        "title": "Compass, Redfin both announce layoffs amid slowing housing market nationwide - SFGATE",
+        "description": "It's another bad sign for the housing market.",
+        "url": "https://www.sfgate.com/bayarea/article/Compass-Redfin-announce-layoffs-17244181.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/26/15/76/22601634/3/rawImage.jpg",
+        "publishedAt": "2022-06-15T21:13:47Z",
+        "content": "Two major real estate firms announced layoffs this week, both of which have a large presence in the Bay Area.Compass reduced its staff by about 450 people across the country, though the company would… [+1538 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "U.S. high nominal growth makes it hard for real assets to come down, says Jefferies' David Zervos - CNBC Television",
+        "description": "David Zervos, Jefferies chief market strategist, joins 'Closing Bell' to discuss the Fed's 75 basis point hike and its impact on the market.",
+        "url": "https://www.youtube.com/watch?v=JGmIpOQWUmk",
+        "urlToImage": "https://i.ytimg.com/vi/JGmIpOQWUmk/hqdefault.jpg",
+        "publishedAt": "2022-06-15T20:42:06Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Asha C. Gilbert, USA TODAY",
+        "title": "California gas station manager fired after making gas 69 cents - USA TODAY",
+        "description": "A former California gas station manager in Rancho Cordova is taking responsibility after accidentally making gas 69 cents instead of $6.99.",
+        "url": "https://www.usatoday.com/story/money/2022/06/15/california-gas-station-manager-fired-69-cents/7636575001/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/07/USAT/962e5611-192f-43f0-9dae-c9f06a73b75d-Shell_gas_2.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
+        "publishedAt": "2022-06-15T20:05:25Z",
+        "content": "A California gas station manager is taking responsibility after he says he made a mistake that cost him his job: accidentally listing gas at 69 cents per gallon.\r\nCBS Sacramento reports former gas st… [+1124 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "GM investing $81M to hand build ultra-exclusive Cadillac Celestiq electric cars - CNBC",
+        "description": "The decision marks the first time GM will build a vehicle for commercial sales at its massive tech campus in Warren, Michigan.",
+        "url": "https://www.cnbc.com/2022/06/15/gm-investing-81m-to-hand-build-luxury-cadillac-celestiq-electric-cars.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076495-1655321460226-celestiq-gm-global-technical-center-02.jpg?v=1655321548&w=1920&h=1080",
+        "publishedAt": "2022-06-15T20:00:01Z",
+        "content": "DETROIT General Motors on Wednesday said it is investing $81 million at its global design and technology campus in suburban Detroit to hand build the upcoming Cadillac Celestiq a new electric flagshi… [+1850 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Marcel Pechman",
+        "title": "Large Bitcoin liquidations mean one man’s pain is another man’s pleasure — Time to buy the dip? - Cointelegraph",
+        "description": "Pro traders were forced to cut their losses after margin and futures markets became over-leveraged, creating a potential entry point for bullish buyers.",
+        "url": "https://cointelegraph.com/news/large-bitcoin-liquidations-mean-one-man-s-pain-is-another-man-s-pleasure-time-to-buy-the-dip",
+        "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvYjdhMzA0ZTgtMzNkZC00ZGVlLThhMGEtYTc5ZWExM2QzYTUyLmpwZw==.jpg",
+        "publishedAt": "2022-06-15T19:56:32Z",
+        "content": "Bitcoin (BTC) has been unable to restore the $24,000 support since Celsius, a popular staking and lending platform, paused withdrawals from its platform on June 13. A growing number of users believe … [+4471 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Cat Clifford",
+        "title": "Inside the U.S. government project to create tiny nuclear reactors like batteries - CNBC",
+        "description": "Scientists are building a micro nuclear reactor, which aims to be able to be significantly cheaper and faster to build than conventional light water reactors.",
+        "url": "https://www.cnbc.com/2022/06/15/inside-the-marvel-micronuclear-reactor-project-at-idaho-national-lab.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107074547-1655070623648-Marvel_Reactor.jpg?v=1655213221&w=1920&h=1080",
+        "publishedAt": "2022-06-15T19:38:23Z",
+        "content": "Nuclear reactors have a well-earned reputation for being massive construction projects that frequently run into cost overruns. Plus, once they are eventually constructed, monitoring and maintaining t… [+8535 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Here’s what’s behind the tampon shortage - The Hill",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzUyNTAzMC1oZXJlcy13aGF0cy1iZWhpbmQtdGhlLXRhbXBvbi1zaG9ydGFnZS_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-06-15T19:26:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jacqueline Howard, CNN",
+        "title": "FDA advisers vote in favor of authorizing Covid-19 vaccines for children as young as 6 months - CNN",
+        "description": "Vaccine advisers to the US Food and Drug Administration voted unanimously on Wednesday in favor of expanding the emergency use authorizations for the Moderna and Pfizer/BioNTech Covid-19 vaccines to include children as young as 6 months.",
+        "url": "https://www.cnn.com/2022/06/15/health/fda-covid-vaccine-youngest-children-vrbpac-vote/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220324023142-moderna-vaccine-file-01072022-super-tease.jpg",
+        "publishedAt": "2022-06-15T19:14:00Z",
+        "content": "(CNN)Vaccine advisers to the US Food and Drug Administration voted unanimously on Wednesday in favor of expanding the emergency use authorizations forthe Moderna and Pfizer/BioNTech Covid-19 vaccines… [+8993 chars]"
+      }
+    ]
+  }

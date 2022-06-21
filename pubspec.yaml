@@ -29,25 +29,22 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # Service locator
-  get_it: ^3.1.0
-  # Bloc for state management
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  mocktail: ^0.3.0
+  get_it: ^7.2.0
   flutter_bloc: ^8.0.1
-  # Value equality
-  equatable: ^2.0.0
-  # Functional programming thingies
+  equatable: ^2.0.3
   dartz: ^0.10.1
-  # Remote API
-  data_connection_checker: ^0.3.4
-  http: ^0.12.0+3
-  # Local cache
+  http: ^0.13.4
   shared_preferences: ^2.0.15
-  
+  internet_connection_checker: ^0.0.1+4
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^5.0.0
-
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -55,7 +52,7 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
-  build_runner: ^2.0.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:dartz/dartz_unsafe.dart';
 import 'package:news/features/top_headlines/data/models/article_model.dart';
 import 'package:news/features/top_headlines/domain/entities/article.dart';
@@ -10,7 +12,7 @@ class ArticlesModel extends Articles {
     _articles = articles;
   }
 
-  factory ArticlesModel.toJson(List<dynamic> json) {
+  factory ArticlesModel.fromJson(List<dynamic> json) {
     List<Article> articles = [];
     for (Map<String, dynamic> article in json) {
       articles.add(ArticleModel.toJson(article)
@@ -27,5 +29,9 @@ class ArticlesModel extends Articles {
           );
     }
     return ArticlesModel(articles);
+  }
+
+  String toJson() {
+    return jsonEncode(_articles);
   }
 }

@@ -29,14 +29,14 @@ class ArticleRepositoryImplementation implements ArticleRepository {
       try {
         ArticlesModel modelResponse =
             await remoteDataSource.getArticle(category, country);
-        localDataSource.cacheNew(modelResponse);
+        localDataSource.cacheNews(modelResponse);
         return Right(modelResponse);
       } on ServerException {
         return Left(ServerFailure());
       }
     }
 
-    return Right(await localDataSource.getOldNews());
+    return Right(await localDataSource.getNewsCached());
   }
 
   Future<bool> isConnected() async {
